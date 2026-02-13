@@ -1,2 +1,1 @@
-2.0
-https://cdn.discordapp.com/attachments/1471584454412861693/1471976948577206457/og_update.exe?ex=6990e4dc&is=698f935c&hm=de48e5b287955e1942d236f859a4cd804d7d33ee9f7b1a26cf830c8b489303ba&
+ogsoftware
